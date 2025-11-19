@@ -1,3 +1,8 @@
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
+![Python](https://img.shields.io/badge/Python-3.12-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Serverless](https://img.shields.io/badge/Architecture-Serverless-yellow)
+```
 # AWS S3 Automated Backup System
 
 A serverless, event-driven backup solution that automatically replicates files across AWS regions for disaster recovery and data redundancy.
@@ -390,5 +395,6 @@ Fadeel Darkwa
 Project Link: [https://github.com/fadeel7/aws-s3-backup-system](https://github.com/fadeel7/aws-s3-backup-system)
 
 ---
+
 
 **Note**: This project is designed for educational purposes and demonstrates AWS serverless architecture concepts. For production use, implement additional security hardening, monitoring, and compliance measures appropriate for your organization.
